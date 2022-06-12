@@ -4,7 +4,7 @@ El fichero CSV contiene una serie de registros relacionados con ingresos de paci
 
 La variables son las siguientes:
 
-###Servicio_Ingreso: 
+**Servicio_Ingreso:** 
 
 	Es el servicio donde el paciente cursa el ingreso, con caracter provisional o definitivo y en uno de los siguientes:
 
@@ -30,7 +30,7 @@ La variables son las siguientes:
 	Cirugía plastica
 
 
-###Servicio_Alta: 
+**Servicio_Alta:**
 
 	Es el servicio donde el paciente cursa el alta, con caracter definitivo el paciente permanecerá en este servicio hasta el alta
 	en uno de los siguientes:
@@ -56,77 +56,77 @@ La variables son las siguientes:
 	Psiquiatría
 
 
-###Edad:
+**Edad:**
 
 	Esta edad que tiene cada paciente en el momento del ingreso
 
 
-###Codigo_Postal:
+**Codigo_Postal:**
 
 	Es el código postal relaccionado con el lugar de residencia del paciente en el momento del ingreso. 
 	Esta información está relaccionada con la zona basica de salud.
 
 
-###día_estancia_hospital:
+**día_estancia_hospital:**
 
 	Días que dura el ingreso hospitalário.
 
 
-###Fecha_ingreso: 
+**Fecha_ingreso:**
 
 	Es la fecha y hora registrada del ingreso hospitalario
 
-###Fecha_alta: 
+**Fecha_alta:**
 
 	Es la fecha y Hora registrada del día de alta médica
 
 
 
-###CDM_Categorias_Diagnosticas_mayores
+**CDM_Categorias_Diagnosticas_mayores*:*
 
 
-###CIE
+**CIE:**
 
 
-###DIABETES_MELLITUS
+**DIABETES_MELLITUS:**
 
 
-###ALERGIAS
+**ALERGIAS:**
 
 
-###REACCION_ADVER_A_FARM
+**REACCION_ADVER_A_FARM:**
 
 
-###HAB_ENOLICO
+**HAB_ENOLICO:**
 
 
-###DISLIPEMIA
+**DISLIPEMIA:**
 
 
-###HABITO_TABAQUICO
+**HABITO_TABAQUICO:**
 
 
-###HIPERTENSION_ARTE
+**HIPERTENSION_ARTE:**
 
 
-###TRATAMIENTO_CRONICO
+**TRATAMIENTO_CRONICO:**
 
 
-###ECOGRAFIA_URGENCIAS
+**ECOGRAFIA_URGENCIAS:**
 
 
-###RX
+**RX:**
 
 
 
-###NIVEL_TRIAJE
+**NIVEL_TRIAJE:**
 
 
-###TAC_URGENCIAS
+**TAC_URGENCIAS:**
 
 
-###Sexo01
+**Sexo01:**
 
 
-###reingresos
+**reingresos:**
 

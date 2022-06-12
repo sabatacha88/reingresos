@@ -81,7 +81,7 @@ La variables son las siguientes:
 	Es la fecha y Hora registrada del día de alta médica
 
 
-**CDM_Categorias_Diagnosticas_mayores*:*
+**CDM_Categorias_Diagnosticas_mayores:**
 
 	Enfermedad Infecciosa y parasitaria
 	Enfermedades del aparato digestivo

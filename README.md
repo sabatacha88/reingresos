@@ -83,6 +83,8 @@ La variables son las siguientes:
 
 **CDM_Categorias_Diagnosticas_mayores:**
 
+	CDM pretende Agrupar los diagnosticos en Categorías diagnosticas mayores:
+	
 	Enfermedad Infecciosa y parasitaria
 	Enfermedades del aparato digestivo
 	Enfermedades del aparato respiratorio
@@ -106,6 +108,8 @@ La variables son las siguientes:
 
 **CIE:**
 
+	Agrupar los CIE por los tipos de enfermedad por sistemas y aparatos:
+	
 	CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS (A00-B99)
 	NEOPLASIAS (C00-D49)
 	ENFERMEDADES DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS Y CIERTOS TRASTORNOS QUE AFECTAN AL MECANISMO INMUNOLÓGICO (D50-D89)

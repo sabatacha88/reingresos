@@ -1,4 +1,4 @@
-# reingresos
+# Fichero de ingresos y reingresos hospitalarios
 
 El fichero CSV contiene una serie de registros relacionados con ingresos de pacientes en un Hospital que han sido obtenidos por el servicio de codificación.
 
